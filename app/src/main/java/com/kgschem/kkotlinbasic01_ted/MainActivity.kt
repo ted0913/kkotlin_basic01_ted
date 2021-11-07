@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         clickBtn.setOnClickListener {
 
             // memo
-            Ctrl + / :
+            Ctrl + / : 커서가 어쩌구
 
             Log.d("main log", "click btn push")
 
